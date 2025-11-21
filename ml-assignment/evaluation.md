@@ -1,4 +1,4 @@
-Evaluation Summary (Humanized Version)
+Evaluation Summary
 This document explains the thinking behind how the TrigramModel was built and the practical decisions
 made along the way. The goal was simple: create a clean, reliable trigram-based text generator that
 behaves predictably and passes the provided tests, while also keeping the implementation easy to
